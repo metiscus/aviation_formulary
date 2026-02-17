@@ -372,6 +372,6 @@ This implementation is based on publicly available mathematical formulas from Ed
   - Reorganized into modular header structure
   - 73 tests (up from 41)
 
-- **v1.0.0** - Initial release
+- **v1.0.0** - Initial version (Unreleased)
   - Great circle navigation functions
   - Basic numerical stability
